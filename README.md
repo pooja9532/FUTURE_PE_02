@@ -1,91 +1,74 @@
-# Task 2 – AI Generated UGC Ad Content
+# AI Content Marketing using UGC Ads  
+## Task 2 – Complete Ad Content Pack  
 
 ---
 
-## 1. Project Overview
+# 1. Project Objective
 
-This project focuses on creating AI-generated User Generated Content (UGC) style advertisement scripts for a beauty brand. The goal of this task is to demonstrate marketing knowledge, content creation skills, audience targeting ability, and structured presentation of promotional content.
+The objective of this project is to create a complete AI-generated UGC (User Generated Content) advertisement content pack for a real beauty brand product.
 
-UGC style ads are written as if a real customer is sharing her personal experience with the product. These ads feel natural, relatable, and trustworthy.
+This includes:
+- Hooks
+- UGC Ad Scripts
+- CTA variations
+- Platform adaptations
+- Marketing framework
+- Prompt engineering logic
+- AI-generated video concept
 
----
-
-## 2. About the Brand
-
-Brand Name: Mamaearth  
-Product Chosen: Hydrating Lipstick  
-
-Mamaearth is a well-known personal care and beauty brand. It is popular among young consumers for offering safe, modern, and effective beauty products.
-
-The Hydrating Lipstick is designed especially for users who want both color and comfort in one product.
+The goal is to create conversion-focused content rather than generic promotional material.
 
 ---
 
-## 3. Reason for Choosing This Product
+# 2. Brand & Product Selected
 
-The Hydrating Lipstick was selected because:
+Brand: Mamaearth  
+Product: Hydrating Lipstick  
 
-- Lipsticks are commonly used by college students.
-- Many students face dryness due to matte formulas.
-- Hydration + color is a strong selling point.
-- It allows emotional and relatable marketing.
-
-This makes it a suitable product for creating UGC-style content.
+Mamaearth is a well-known beauty and personal care brand. The Hydrating Lipstick provides rich pigmentation while keeping lips moisturized and soft.
 
 ---
 
-## 4. Target Audience Analysis
+# 3. Target Audience
 
-Primary Target Audience:
-College girls between 18–23 years.
+Primary Audience:
+College girls aged 18–23 years.
 
-Demographics:
-- Students
-- Daily college attendees
-- Budget-conscious buyers
-
-Psychographics:
-- Want simple and comfortable makeup
-- Prefer long-lasting but non-drying products
-- Influenced by social media trends
-
-Pain Points:
-- Dry lips after using matte lipsticks
-- Lipstick cracking during long college hours
-- Uncomfortable heavy formulas
+Characteristics:
+- Daily makeup users
+- Long college hours
+- Prefer comfort + color
+- Face dry lip issues from matte lipsticks
 
 ---
 
-## 5. Product Benefits
+# 4. Problem Statement
 
-Key Benefits of Hydrating Lipstick:
+Many college students use matte lipsticks that cause:
+- Dryness
+- Cracking
+- Flaky lips
+- Discomfort after few hours
 
-- Keeps lips moisturized
-- Prevents dryness and flakiness
-- Smooth application
-- Lightweight formula
-- Suitable for daily wear
-- Comfortable for long hours
-- Provides rich pigmentation
+This creates a gap for a hydrating alternative.
 
 ---
 
-## 6. Problem-Solution Strategy
+# 5. Ad Framework Used
 
-Problem:
-Many college girls experience dry, cracked lips after using regular matte lipsticks.
+The advertisement follows the AIDA Model:
 
-Solution:
-Hydrating Lipstick provides color while maintaining lip moisture.
+A – Attention (Strong Hook)  
+I – Interest (Problem Highlight)  
+D – Desire (Introduce Solution & Benefits)  
+A – Action (Clear Call To Action)
 
-Marketing Angle:
-"Beauty without discomfort."
+Structure Used:
+Hook → Problem → Relatable Situation → Product Intro → Benefits → CTA
 
 ---
 
-## 7. Hook Strategy
-
-Hooks are the first 3–5 seconds of the ad that grab attention.
+# 6. Hooks Created
 
 Hook 1:
 Stop ruining your lips with dry matte lipsticks!
@@ -96,56 +79,135 @@ College girls, if your lipstick cracks by lunch… listen to this.
 Hook 3:
 I finally found a lipstick that doesn’t dry my lips!
 
-These hooks are designed to:
-- Trigger curiosity
-- Highlight the problem
-- Create relatability
-
 ---
 
-## 8. UGC Ad Script 1
+# 7. UGC Ad Script 1
 
 Hook:
 Stop ruining your lips with dry matte lipsticks!
 
 Script:
-I used to love matte lipsticks, but by lunchtime my lips would feel dry and cracked. It looked good at first, but after a few hours, it became uncomfortable.
+I used to love matte lipsticks, but after a few hours in college my lips would feel dry and uncomfortable.
 
-Then I tried the Mamaearth Hydrating Lipstick, and I honestly noticed a big difference. It gives beautiful color but also keeps my lips soft.
+Then I tried Mamaearth Hydrating Lipstick. It gives beautiful color and keeps my lips soft at the same time.
 
-Even after long college hours, my lips still feel smooth and comfortable.
+Even after long lectures, my lips stay smooth.
 
-If you are tired of dry lips, this might be the perfect solution for you.
+If you’re tired of cracked lips, this is worth trying.
+
+CTA:
+Switch to hydration without compromising on color.
 
 ---
 
-## 9. UGC Ad Script 2
+# 8. UGC Ad Script 2
 
 Hook:
 College girls, if your lipstick cracks by lunch… listen to this.
 
 Script:
-I spend almost 6–7 hours in college every day. Most lipsticks start cracking or feeling heavy after some time.
+I spend almost 6–7 hours in college every day. Most lipsticks start cracking by afternoon.
 
-Recently, I started using Mamaearth Hydrating Lipstick, and it feels completely different. It is smooth, lightweight, and keeps my lips hydrated.
+Recently, I switched to Mamaearth Hydrating Lipstick and the difference is clear.
 
-Now I don’t worry about dryness during the day.
+It feels lightweight, smooth, and keeps my lips moisturized.
 
-It’s perfect for everyday college use.
+Perfect for daily college wear.
+
+CTA:
+Try it and feel the difference yourself.
 
 ---
 
-## 10. Conclusion
+# 9. Platform Adaptation
 
-This project demonstrates the ability to:
+Instagram Reel:
+Short 20–30 second version with strong emotional hook.
 
-- Understand target audience
-- Identify pain points
-- Create strong marketing hooks
-- Write persuasive UGC-style ad scripts
-- Present structured content professionally
+Facebook Ad:
+Slightly longer explanation focusing on benefits and comfort.
 
-The overall objective was to create relatable, simple, and engaging advertisement scripts for a college-based audience.
+YouTube Shorts:
+Problem-focused hook + fast solution + strong CTA.
+
+---
+
+# 10. Prompt Used for Script Generation
+
+Prompt Structure:
+
+Generate a short-form UGC style advertisement script for Mamaearth Hydrating Lipstick.
+Target audience: college girls aged 18–23.
+Problem: dry and cracked lips caused by matte lipsticks.
+Tone: friendly, relatable, authentic.
+Format: Hook + Problem + Solution + CTA.
+
+This ensured structured and conversion-focused output.
+
+---
+
+# 11. Marketing Strategy
+
+The strategy focuses on:
+
+- Emotional relatability
+- Pain-point targeting
+- Benefit-driven messaging
+- Soft persuasive CTA
+- Social media friendly tone
+
+The content is designed to build trust rather than force a sale.
+
+---
+
+# 12. AI Video Concept
+
+Video Style:
+Selfie-style UGC video recorded as if a college girl is reviewing the lipstick.
+
+Scenes:
+1. Showing cracked lips problem
+2. Applying lipstick
+3. Showing smooth result
+4. Talking directly to camera
+5. Ending with CTA text overlay
+
+---
+
+# 13. Tools Used
+
+- ChatGPT (Script & strategy generation)
+- CapCut / Runway / Pika (Video generation concept)
+- GitHub (Documentation & submission)
+
+---
+
+# 14. Repository Structure
+
+- README.md (Full documentation)
+- /scripts (UGC scripts)
+- /video (Final generated ad video)
+- /prompts (Prompt documentation)
+
+---
+
+# 15. Skills Demonstrated
+
+- AI-driven content marketing
+- Prompt engineering
+- UGC ad scripting
+- Audience targeting
+- Conversion copywriting
+- Marketing framework implementation
+- Professional GitHub documentation
+
+---
+
+# 16. Conclusion
+
+This project successfully demonstrates the creation of a complete AI-generated UGC advertisement content pack for Mamaearth Hydrating Lipstick.
+
+The content is structured, audience-focused, and conversion-oriented, making it suitable for social media marketing campaigns.
 
 ---
 
